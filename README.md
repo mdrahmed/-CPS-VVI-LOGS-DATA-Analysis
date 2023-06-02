@@ -132,11 +132,13 @@ We can also see `isValidPos` function is called after the 3rd value but after ge
 Because when the storage was full then from `hbw-fetch7.txt`, we got this order, run `Analysis/table.py`,
 
 Loaded values from fetch7.txt:
+
 ['2137910232', '2137903760', '2137894424', '2137910352', '2137910312', '2137910272', '2137910472', '2137910432', '2137910392']
 
 But when I made `A1` empty then I got this order,
 
 Loaded values from fetch8-ch.txt:
+
 ['2137903760', '2137894424', '0']
 
 **Why the 1st value '2137910232' is missing. It is not missing instead those values are not fixed. It is printing a random data from `2,0` then `1,0` then it finds the `0,0` is empty.**
