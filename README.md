@@ -128,11 +128,14 @@ We can also see `isValidPos` function is called after the 3rd value but after ge
 
 
 `hbw-fetch9-ch.txt` and `hbw-fetch10-ch.txt` is used to check if the spaces were supposed to be read from `2,0`, `1,0`, `0,0`
+
 Because when the storage was full then from `hbw-fetch7.txt`, we got this order, run `Analysis/table.py`,
+
 Loaded values from fetch7.txt:
 ['2137910232', '2137903760', '2137894424', '2137910352', '2137910312', '2137910272', '2137910472', '2137910432', '2137910392']
 
 But when I made `A1` empty then I got this order,
+
 Loaded values from fetch8-ch.txt:
 ['2137903760', '2137894424', '0']
 
