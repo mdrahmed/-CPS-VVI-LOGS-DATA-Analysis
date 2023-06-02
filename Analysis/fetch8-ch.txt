@@ -1,0 +1,25 @@
+
+Function: _ZN9__gnu_cxx13new_allocatorIcED2Ev
+Function: _ZN2ft26TxtHighBayWarehouseStorage14fetchContainerEv
+Condition true block: 1
+Condition true block: 1
+loaded values: 2137903760
+Condition false block: 0
+Condition true block: 1
+loaded values: 2137894424
+Condition false block: 0
+Condition true block: 1
+loaded values: 0
+Condition true block: 1
+Condition false block: 0
+Condition false block: 0
+Condition false block: 0
+loaded values: 0
+loaded values: 0
+Function: _ZN2ft26TxtHighBayWarehouseStorage10isValidPosENS_11StoragePos2E
+Condition true block: 1
+Condition false block: 0
+Called from: _ZN2ft26TxtHighBayWarehouseStorage14fetchContainerEv _ZN2ft26TxtHighBayWarehouseStorage10isValidPosENS_11StoragePos2E callInst_values: -1
+Condition true block: 1
+loaded values: 0
+loaded values: 0
